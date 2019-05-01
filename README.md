@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+### Nathanael Roy's Github Website
 
-You can use the [editor on GitHub](https://github.com/nathanaelroy/nathanaelroy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Resume
+# Education
+-UC Riverside University- Applied Statistics MS Expected June 2019
+-Pomona College- Mathematics BA May 2017
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Selected Coursework
+* Statistical Data Mining Methods
+* Advanced Theory of Probability and Statistics
+* Computational Methods for Bio-molecular Data
+* Survival Analysis
+* Advanced Statistical Computing
+  * [Project](https://nathanaeljosephroy.shinyapps.io/Life-Simulation/
+* Health Care Policy and Management
+* Data Structures and Advanced Programming (Java)
+* Representations of High Dimensional Data (Matlab)
+* Fundamentals of Computer Science (SML- Similar to Perl, CS41b-similar to Assembly, Python, C, etc.)
 
-### Markdown
+# Experience
+* Statistics Teaching Assistant for Undergraduates: September 2018-Present
+  * Material covered: descriptive statistics, probability, simple linear regression, understanding of outliers, extrapolation, an introduction to discrete and continuous probability distributions, and simple hypothesis testing.
+  * Lab component: Excel or Minitab.
+* Summer Researcher at FDA National Center for Toxicology Research: May 2018-July 2018
+  * 10 week internship with the FDA
+  * Developed Physiologically Based Pharmacokinetic Model of Pentamidine in humans and in rats
+  * Transferred existing acslX code (now dead software) for PBPK modeling into R
+* Thesis Research in Genetic Algorithms: August 2016-May 2017
+  * Design, implementation, and comparison of Genetic Algorithms on suite of test functions involving extensive research and over 4000 lines of code in Java.
+* Resident Advisor August 2015- May 2017
+  * Experience as a manager and leader
+  * Provided programming for residence halls
+  * First point of contact for personal, educational, and social needs of residence of the college.
+  * Responding to emergencies, reporting maintenance problems, counseling students, and being aware of the range of issues concerning the local body politic of Pomona College
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nathanaelroy/nathanaelroy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
