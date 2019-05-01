@@ -11,7 +11,7 @@
 * Computational Methods for Bio-molecular Data
 * Survival Analysis
 * Advanced Statistical Computing
-  * [Project](https://nathanaeljosephroy.shinyapps.io/Life-Simulation/
+  * [Project](https://nathanaeljosephroy.shinyapps.io/Life-Simulation/)
 * Health Care Policy and Management
 * Data Structures and Advanced Programming (Java)
 * Representations of High Dimensional Data (Matlab)
