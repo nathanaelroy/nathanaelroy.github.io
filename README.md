@@ -23,7 +23,7 @@
   * Lab component: Excel or Minitab.
 * Summer Researcher at FDA National Center for Toxicology Research: May 2018-July 2018
   * 10 week internship with the FDA
-  * Developed Physiologically Based Pharmacokinetic Model of Pentamidine in humans and in rats
+  * Developed Physiologically Based Pharmacokinetic Model of Drug P in humans and in rats
   * Transferred existing acslX code (now dead software) for PBPK modeling into R
 * Thesis Research in Genetic Algorithms: August 2016-May 2017
   * Design, implementation, and comparison of Genetic Algorithms on suite of test functions involving extensive research and over 4000 lines of code in Java.
